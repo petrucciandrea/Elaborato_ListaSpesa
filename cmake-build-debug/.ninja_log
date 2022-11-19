@@ -1,0 +1,25 @@
+# ninja log v5
+2	557	1668854790084681315	CMakeFiles/Elaborato_ListaSpesa.dir/Articolo.cpp.o	a75699a3eb3891cc
+0	570	1668854790098961957	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+570	646	1668854790179778925	Elaborato_ListaSpesa	b9d1adcb122743f0
+3	504	1668854802045211309	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+504	565	1668854802108396718	Elaborato_ListaSpesa	b9d1adcb122743f0
+2	485	1668854812194774104	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+486	546	1668854812256693294	Elaborato_ListaSpesa	b9d1adcb122743f0
+2	496	1668856254976935534	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+2	475	1668856566555829000	CMakeFiles/Elaborato_ListaSpesa.dir/Articolo.cpp.o	a75699a3eb3891cc
+475	561	1668856566645569450	Elaborato_ListaSpesa	b9d1adcb122743f0
+3	500	1668856714257306191	CMakeFiles/Elaborato_ListaSpesa.dir/Articolo.cpp.o	a75699a3eb3891cc
+2	509	1668856714265402337	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+509	568	1668856714328123453	Elaborato_ListaSpesa	b9d1adcb122743f0
+2	480	1668856748250916679	CMakeFiles/Elaborato_ListaSpesa.dir/Articolo.cpp.o	a75699a3eb3891cc
+480	538	1668856748311637841	Elaborato_ListaSpesa	b9d1adcb122743f0
+2	490	1668856854516637915	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+491	554	1668856854582748393	Elaborato_ListaSpesa	b9d1adcb122743f0
+1	654	1668856878645286692	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+654	717	1668856878710818842	Elaborato_ListaSpesa	b9d1adcb122743f0
+2	472	1668856901962543332	CMakeFiles/Elaborato_ListaSpesa.dir/Articolo.cpp.o	a75699a3eb3891cc
+2	480	1668856901970232665	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+480	539	1668856902032152256	Elaborato_ListaSpesa	b9d1adcb122743f0
+3	473	1668857020414278048	CMakeFiles/Elaborato_ListaSpesa.dir/main.cpp.o	737c4d54d9f1d932
+473	533	1668857020473866813	Elaborato_ListaSpesa	b9d1adcb122743f0
